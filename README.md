@@ -7,7 +7,7 @@ The analysis aims to answer three questions:
 * How should we match marketing and communication strategies to customer behaviors?
 * How Much Can We Spend on Acquiring New Customers?
 ## The database
-The database [Download stores.db] (stores.db) contains eight tables:
+The database (stores.db https://github.com/JShi12/Customers-and-Products-Analysis-SQL-and-Python/blob/main/stores.db) contains eight tables:
 
 |table_name  |number_of_attributes|number_of_row| note_on_the_table                   |
 |------------|--------------------|-------------|-------------------------------------|
