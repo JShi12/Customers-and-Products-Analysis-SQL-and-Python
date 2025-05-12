@@ -19,13 +19,14 @@ The database (./stores.db) contains eight tables:
 |Payments    |4                   |273          |customers' payment records           |
 |Employees   |8                   |23           |all employee information             |
 |Offices     |9                   |7            |sales office information             | 
-|------------|--------------------|-------------|-------------------------------------|
+
 
 The database schema is as follows:
+
 ![database schema](./db_schema.png)
 
 ## SQL file
-The SQL file (./Customers_and_Products.sql) contains the SQLite queries I used to explore the dataset with [DB Browser] (https://sqlitebrowser.org/dl/), which is a commonly used tool to handle SQLite databases. 
+The [SQL file] (./Customers_and_Products.sql) contains the SQLite queries I used to explore the dataset with [DB Browser] (https://sqlitebrowser.org/dl/), which is a commonly used tool to handle SQLite databases. 
 
 ## Jupyter Notebook file
 I exectued the queries with Python in the Jupyter Notebook file (./CustomerAndProductAnalysis_QueryingSQLiteFromPyton) and summeried the results. 
