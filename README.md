@@ -7,7 +7,7 @@ The analysis aims to answer three questions:
 * How should we match marketing and communication strategies to customer behaviors?
 * How Much Can We Spend on Acquiring New Customers?
 ## The database
-The database (./stores.db) contains eight tables:
+The database (stores.db) contains eight tables:
 
 |table_name  |number_of_attributes|number_of_row| note_on_the_table                   |
 |------------|--------------------|-------------|-------------------------------------|
@@ -26,7 +26,7 @@ The database schema is as follows:
 ![database schema](./db_schema.png)
 
 ## SQL file
-The [SQL file] (./Customers_and_Products.sql) contains the SQLite queries I used to explore the dataset with [DB Browser] (https://sqlitebrowser.org/dl/), which is a commonly used tool to handle SQLite databases. 
+The [SQL file] (Customers_and_Products.sql) contains the SQLite queries I used to explore the dataset with [DB Browser] (https://sqlitebrowser.org/dl/), which is a commonly used tool to handle SQLite databases. 
 
 ## Jupyter Notebook file
 I exectued the queries with Python in the Jupyter Notebook file (./CustomerAndProductAnalysis_QueryingSQLiteFromPyton) and summeried the results. 
