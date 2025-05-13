@@ -29,7 +29,7 @@ The database schema is as follows:
 The SQL file (Customers_and_Products.sql) contains the SQLite queries I used to explore the dataset with DB Browser (https://sqlitebrowser.org/dl/), which is a commonly used tool to handle SQLite databases. 
 
 ## Jupyter Notebook file
-I executed the queries with Python in the Jupyter Notebook file (CustomerAndProductAnalysis_QueryingSQLiteFromPyton), illustrated some results and summeried the results. 
+I executed the queries with Python in the Jupyter Notebook file (CustomerAndProductAnalysis_QueryingSQLiteFromPyton.ipynb), illustrated some results and summerised the results. 
 
 
 ## Summary results 
