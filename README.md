@@ -34,8 +34,8 @@ I executed the queries with Python in the Jupyter Notebook file (CustomerAndProd
 
 ## Summary results 
 
-The results reveal the priority products for restocking based on their potential revenue contribution. Among low stock products, '1968 Ford Mustang' has the highest projected revenue and a low stock index of 13.72, indicating strong demand relative to available stock. '1960 BSA Gold Star DBD34' is the product with the highest low stock index (67.67), highlighting a significant stock gap. However, its potential revenue is comparatively modest(<1000,000).
+The results reveal the priority products for restocking based on their potential revenue contribution. Among low stock products, '1968 Ford Mustang' has the highest projected revenue and a low stock index of 13.72, indicating strong demand relative to available stock. '1960 BSA Gold Star DBD34' is the product with the highest low stock index (67.67), highlighting a significant stock gap. However, its potential revenue is comparatively modest(<$1000,000).
 
 The results hightlights VIP customers and the least-enaged customers and we should consider marketing and communication Strategies targeted for the two different group customers.
 
-Lastly, the results show that the new customer acquisition rate has dropped below 50% since 2004. Given a LTV of 39039.59, recommendations on how much can be spent on acquiring new customers are given. We can spend up to $ 13013.20 on acquiring each new customer to maintain a healty LTV-to-CAC ratio of 3:1.
+Lastly, the results show that the new customer acquisition rate has dropped below 50% since 2004. Given a LTV of $ 39039.59, recommendations on how much can be spent on acquiring new customers are given. We can spend up to $ 13013.20 on acquiring each new customer to maintain a healty LTV-to-CAC ratio of 3:1.
